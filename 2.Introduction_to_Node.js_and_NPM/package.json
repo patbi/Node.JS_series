@@ -1,0 +1,17 @@
+{
+  "name": "2.Introduction_to_Node.js_and_NPM",
+  "version": "1.0.0",
+  "description": "*The Complete Node.js Course *",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
