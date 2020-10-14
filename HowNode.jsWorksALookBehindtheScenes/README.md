@@ -17,7 +17,7 @@
 	 THE NODE.JS ARCHITECTURE BEHIND THE SCENES 👇
 ```
 
-![Preview](https://github.com/patbi/Node.JS_series/blob/main/BackEndWebDevelopment/nodejsarch.JPG)
+![Preview](https://github.com/patbi/Node.JS_series/blob/main/HowNode.jsWorksALookBehindtheScenes/nodejsarch.JPG)
 
 
 ```bash
@@ -27,7 +27,7 @@
 	  NODE PROCESS AND THREADS 👇
 ```
 
-![Preview](https://github.com/patbi/Node.JS_series/blob/main/BackEndWebDevelopment/NPT.JPG)
+![Preview](https://github.com/patbi/Node.JS_series/blob/main/HowNode.jsWorksALookBehindtheScenes/NPT.JPG)
 
 
 
@@ -38,17 +38,17 @@
 	  THE Node.js Event Loop 👇
 ```
 
-![Preview](https://github.com/patbi/Node.JS_series/blob/main/BackEndWebDevelopment/NEL.JPG)
+![Preview](https://github.com/patbi/Node.JS_series/blob/main/HowNode.jsWorksALookBehindtheScenes/NEL.JPG)
 
 
 #THE Event Loop IN DETAIL 👇
 
-![Preview](https://github.com/patbi/Node.JS_series/blob/main/BackEndWebDevelopment/ELID.JPG)
+![Preview](https://github.com/patbi/Node.JS_series/blob/main/HowNode.jsWorksALookBehindtheScenes/ELID.JPG)
 
 
 #THE EVENT LOOP: NODE VS. OTHERS 👇
 
-![Preview](https://github.com/patbi/Node.JS_series/blob/main/BackEndWebDevelopment/NVO.JPG)
+![Preview](https://github.com/patbi/Node.JS_series/blob/main/HowNode.jsWorksALookBehindtheScenes/NVO.JPG)
 
 
 ```bash
