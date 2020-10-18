@@ -243,7 +243,7 @@ server.listen(8000, "127.0.0.1", () => {
 
 👇
 
-# THE COMMONJS MODULE SYSTEM
+--> THE COMMONJS MODULE SYSTEM
 
 ![Preview](https://github.com/patbi/Node.JS_series/blob/main/HowNode.jsWorksALookBehindtheScenes/TCMS.JPG)
 
