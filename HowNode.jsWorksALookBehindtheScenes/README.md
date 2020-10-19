@@ -251,6 +251,22 @@ server.listen(8000, "127.0.0.1", () => {
 
 ```bash
 	 Requiring Modules in Practice -
-	 see you tomorrow  
+	
+	👉 touch modules.js
+
+write 👇
+
+console.log(arguments);
+console.log(require("module").wrapper);
+run node modules.js
+
+	👉 see module.exports | exports | caching manipulations
+
+	in 👇
+
+	 👉 test-module-1.js
+	 👉 test-module-2.js
+	 👉 test-module-3.js
+
 ```
 
